@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5TzeAFOMevPgv49ZbkxC4rKlzSrDob8zoYmPRI8wSWhL8FpGHIsxLsECFJc4pBC9u9OPbTP8tx8aruLe6Islfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\Programmation Fonctionnel.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talla\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

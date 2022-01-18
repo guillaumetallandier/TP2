@@ -1,0 +1,26 @@
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\Programmation Fonctionnel.exe
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\Programmation Fonctionnel.deps.json
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\Programmation Fonctionnel.runtimeconfig.json
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\Programmation Fonctionnel.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\Programmation Fonctionnel.pdb
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.fsproj.AssemblyReference.cache
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.AssemblyInfoInputs.cache
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.AssemblyInfo.fs
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.fsproj.CopyComplete
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.dll
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.pdb
+C:\Users\talla\OneDrive\Documents\Cours cnam\UTC503\TP2\Programmation Fonctionnel\Programmation Fonctionnel\obj\Debug\net6.0\Programmation Fonctionnel.genruntimeconfig.cache

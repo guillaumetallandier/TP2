@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\Programmation Fonctionnel.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\Programmation Fonctionnel.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\Programmation Fonctionnel.fsproj",
+        "projectName": "Programmation Fonctionnel",
+        "projectPath": "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\Programmation Fonctionnel.fsproj",
+        "packagesPath": "C:\\Users\\talla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talla\\OneDrive\\Documents\\Cours cnam\\UTC503\\TP2\\Programmation Fonctionnel\\Programmation Fonctionnel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
